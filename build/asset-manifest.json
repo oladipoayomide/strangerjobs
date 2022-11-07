@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7514b993.css",
+    "main.js": "/static/js/main.64662f7d.js",
+    "static/media/handsomeImg.png": "/static/media/handsomeImg.c35b88744aac948e436e.png",
+    "static/media/cuteAsian.png": "/static/media/cuteAsian.81710c6acdf98ce23532.png",
+    "static/media/bioImg.png": "/static/media/bioImg.b0c49e12d7b873dbf31e.png",
+    "index.html": "/index.html",
+    "main.7514b993.css.map": "/static/css/main.7514b993.css.map",
+    "main.64662f7d.js.map": "/static/js/main.64662f7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7514b993.css",
+    "static/js/main.64662f7d.js"
+  ]
+}
